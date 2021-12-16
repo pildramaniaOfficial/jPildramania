@@ -203,6 +203,3 @@ export function _setBorderStyle(s, val) {
 export function _setborder(s, arg) {
       document.querySelector(s).style.border = arg
 }
-export function _calcmode(mean, median) {
-    return (3 * mean) - (2 * median)
-}

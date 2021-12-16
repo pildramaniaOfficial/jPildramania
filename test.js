@@ -1,1 +1,1 @@
-import { _calcmode } from "./lib";
+import { _calcmode , _print } from "./lib.js";
